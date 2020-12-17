@@ -1,3 +1,6 @@
 Hello World!!
 Today is Wednesday.
 Month is december and we are in the endgame 2020.
+This line is added on 17th dec.
+Hello!!
+This is used for demo of merge command.
